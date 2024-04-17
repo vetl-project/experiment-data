@@ -1,3 +1,5 @@
+**VETL is a commercial project that restrict the disclosure of source code or program. Sorry for the inconvenience.**
+
 + [result_open_source.xlsx](https://github.com/vetl-project/experiment-data/blob/main/result_open_source.xlsx): Raw statistics result on four open-source websites, run with vetl, three variants, and webexplor. The four subseets also shows the ablation results.
 
 + [commercial_web_results.xlsx](https://github.com/vetl-project/experiment-data/blob/main/result_open_source.xlsx): Raw statistics on ten commercial websites, formats are similar to the open-source websites' results.
